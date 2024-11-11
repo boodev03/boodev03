@@ -32,25 +32,25 @@
   <tr style="width: 100%;">
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5 Icon" style="width: 65px; height: 65px;" />
+        <img src="./icons/html5.svg" alt="HTML5 Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">HTML5</p>
       </div>
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3 Icon" style="width: 65px; height: 65px;" />
+        <img src="./icons/css3.svg" alt="CSS3 Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">CSS3</p>
       </div>
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="https://rawgit.com/sass/sass-site/main/source/assets/img/logos/logo.svg" alt="Saas Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">SAAS</p>
+      <img src="./icons/saas.svg" alt="Saas Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">Sass</p>
       </div>
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="https://cdn.simpleicons.org/tailwindcss/38B2AC" alt="Tailwind CSS Icon" style="width: 65px; height: 65px;" />
+      <img src="./icons/tailwind.svg" alt="Tailwind CSS Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">TailwindCSS</p>
       </div>
     </td>
@@ -80,13 +80,7 @@
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="./images/icons/react-native.png" alt="React Native Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">React Native</p>
-      </div>
-    </td>
-    <td align="center" width="96">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js Icon" style="width: 65px; height: 65px;" />
+      <img src="./icons//nestjs.svg" alt="Next.js Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">NextJS</p>
       </div>
     </td>
