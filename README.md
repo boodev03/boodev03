@@ -56,45 +56,27 @@
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="JavaScript Icon" style="width: 65px; height: 65px;" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">Javascript</p>
       </div>
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-1174965.png?f=webp" alt="TypeScript Icon" style="width: 65px; height: 65px;" />
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">Typescript</p>
-      </div>
-    </td>
-    <td align="center" width="96">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">PHP</p>
-      </div>
-    </td>
-    <td align="center" width="96">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Laravel</p>
-      </div>
-    </td>
-    <td align="center" width="96">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="/images/icons/wordpress.png" alt="WordPress Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">WordPress</p>
       </div>
     </td>
   </tr>
   <tr style="width: 100%;">
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React Icon" style="width: 65px; height: 65px;" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">React</p>
       </div>
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="/images/icons/Redux.png" alt="Redux Icon" style="width: 65px; height: 65px;" />
+      <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">Redux</p>
       </div>
     </td>
@@ -108,30 +90,6 @@
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">NextJS</p>
-      </div>
-    </td>
-    <td align="center" width="96">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Vue</p>
-      </div>
-    </td>
-    <td align="center" width="96">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="https://cdn.brandfetch.io/idbZEWAZ5J/w/400/h/400/theme/dark/icon.png?c=1id64Mup7ac03k1S4NH&t=1727140851015" alt="Nuxt.js Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">NuxtJS</p>
-      </div>
-    </td>
-    <td align="center" width="96">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="./images/icons/Angular.png" alt="Angular Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Angular</p>
-      </div>
-    </td>
-    <td align="center" width="96">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="https://freelogopng.com/images/all_img/1655836788shopify-icon-png.png" alt="Shopify Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Shopify</p>
       </div>
     </td>
     <td align="center" width="96">
@@ -156,12 +114,6 @@
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="/images/icons/GraphQL.png" alt="GraphQL Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">GraphQL</p>
-      </div>
-    </td>
-    <td align="center" width="96">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
         <img src="/images/icons/express-js.png" alt="Express Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">Express</p>
       </div>
@@ -176,12 +128,6 @@
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">AWS</p>
-      </div>
-    </td>
-    <td align="center" width="96">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Python</p>
       </div>
     </td>
     <td align="center" width="96">
