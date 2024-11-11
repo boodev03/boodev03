@@ -67,7 +67,6 @@
       </div>
     </td>
   </tr>
-  <tr style="width: 100%;">
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React Icon" style="width: 65px; height: 65px;" />
@@ -92,13 +91,6 @@
         <p style="padding: 0; margin: 0;">NextJS</p>
       </div>
     </td>
-    <td align="center" width="96">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Node</p>
-      </div>
-    </td>
-  </tr>
   <tr style="width: 100%;">
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
