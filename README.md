@@ -6,23 +6,23 @@
 </div>
 <br />
 <p align="center">
-  <a href="mailto:oliver.elias011@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png" width="50" /></a>
+  <a href="https://www.linkedin.com/in/boodev/" target="_blank" rel="noopener noreferrer"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/okDfPKgEgIpE" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
+  <a href="https://t.me/boodev03" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png"  width="50" /></a>
 </p>
 
 ## About me <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 <p>
-  I'm Ngoc Thang, a passionate Full Stack Developer based in Vietnam. With a deep interest in web development, I’ve been honing my skills in both front-end and back-end technologies over the years. I enjoy working with a range of technologies such as React, Next.js, TypeScript, Tailwind CSS, and Node.js, and I have experience in Nuxt.js and Python as well.
+  I'm Ngoc Thang, a Full Stack Developer from Vietnam with a passion for building web applications. I have strong experience working with front-end and back-end technologies, including React, Next.js, TypeScript, Tailwind CSS, and Node.js. Recently, I've also been exploring the world of Web3 and blockchain development to expand my knowledge and stay updated with modern tech trends.
 </p>
 
 <p>
-  What excites me most about web development is the challenge of building intuitive and responsive user interfaces while ensuring smooth performance on the back-end. I’m always eager to explore new technologies and improve my skill set to create innovative solutions.
+  What I love most about web development is creating user-friendly interfaces and ensuring smooth, efficient performance on the back-end. I enjoy learning new technologies and continuously improving my skills to build innovative and impactful solutions.
 </p>
 
 <p>
-  I am currently open to job opportunities where I can apply my skills, collaborate with talented teams, and continue growing as a developer. If you have a project or role that aligns with my experience and passion, feel free to reach out!
+  I am currently looking for job opportunities where I can use my skills, work with talented teams, and keep growing as a developer. If you have a project or position that matches my experience and interests, feel free to reach out!
 </p>
 
 
