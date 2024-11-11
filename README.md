@@ -80,7 +80,7 @@
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="./icons//nestjs.svg" alt="Next.js Icon" style="width: 65px; height: 65px;" />
+      <img src="./icons//nextjs.svg" alt="Next.js Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">NextJS</p>
       </div>
     </td>
@@ -94,19 +94,19 @@
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="/images/icons/Postgresql.png" alt="Postgresql Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">Postgresql</p>
+        <img src="/icons/nodejs.svg" alt="Postgresql Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">Node</p>
       </div>
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="/images/icons/express-js.png" alt="Express Icon" style="width: 65px; height: 65px;" />
+        <img src="/icons/express.svg" alt="Express Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">Express</p>
       </div>
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="/images/icons/MongoDB.png" alt="MongoDB Icon" style="width: 65px; height: 65px;" />
+        <img src="/icons/mongodb.svg" alt="MongoDB Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">MongoDB</p>
       </div>
     </td>
@@ -118,13 +118,19 @@
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="/images/icons/blockchain.png" alt="BlockChain Icon" style="width: 65px; height: 65px;" />
+        <img src="./icons/docker.svg" alt="AWS Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">Docker</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="/icons/blockchain.svg" alt="BlockChain Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">BlockChain</p>
       </div>
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="/images/icons/web3.png" style="width: 65px; height: 65px;" />
+        <img src="/icons/web3.svg" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">Web3</p>
       </div>
     </td>
