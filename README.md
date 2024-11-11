@@ -124,14 +124,29 @@
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-        <img src="/icons/blockchain.svg" alt="BlockChain Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">BlockChain</p>
+        <img src="/icons/nestjs.svg.svg" alt="BlockChain Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">NestJs</p>
       </div>
     </td>
     <td align="center" width="96">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
         <img src="/icons/web3.svg" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">Web3</p>
+      </div>
+    </td>
+  </tr>
+  
+  <tr style="width: 100%;">
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="./icons/rust.svg" alt="MySQL Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">Rust</p>
+      </div>
+    </td>
+    <td align="center" width="96">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+        <img src="/icons/solana.svg.svg" alt="Postgresql Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">Solana</p>
       </div>
     </td>
   </tr>
