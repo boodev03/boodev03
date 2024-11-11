@@ -68,6 +68,14 @@
     </td>
     <td align="center" width="140">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
+      <img src="./icons//nextjs.svg" alt="Next.js Icon" style="width: 65px; height: 65px;" />
+        <p style="padding: 0; margin: 0;">NextJS</p>
+      </div>
+    </td>
+  </tr>
+  <tr style="width: 100%;">
+    <td align="center" width="140">
+      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">React</p>
       </div>
@@ -78,14 +86,6 @@
         <p style="padding: 0; margin: 0;">Redux</p>
       </div>
     </td>
-    <td align="center" width="140">
-      <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
-      <img src="./icons//nextjs.svg" alt="Next.js Icon" style="width: 65px; height: 65px;" />
-        <p style="padding: 0; margin: 0;">NextJS</p>
-      </div>
-    </td>
-  </tr>
-  <tr style="width: 100%;">
     <td align="center" width="140">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL Icon" style="width: 65px; height: 65px;" />
@@ -116,7 +116,10 @@
         <p style="padding: 0; margin: 0;">AWS</p>
       </div>
     </td>
-    <td align="center" width="140">
+  </tr>
+  
+  <tr style="width: 100%;">
+  <td align="center" width="140">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
         <img src="./icons/docker.svg" alt="Docker Icon" style="width: 65px; height: 65px;" />
         <p style="padding: 0; margin: 0;">Docker</p>
@@ -140,9 +143,6 @@
         <p style="padding: 0; margin: 0;">Blockchain</p>
       </div>
     </td>
-  </tr>
-  
-  <tr style="width: 100%;">
     <td align="center" width="140">
       <div style="background-color: transparent; border: 1px solid white; padding: 6px 13px; font-size: 16px;">
         <img src="./icons/rust.svg" alt="Rust Icon" style="width: 65px; height: 65px;" />
