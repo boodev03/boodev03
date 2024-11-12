@@ -1,6 +1,7 @@
 <div align="center">
   <h2>Fullstack Developer</h2>
 </div>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/boodev/" target="_blank" rel="noopener noreferrer"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="50" /></a>
   &nbsp;&nbsp;
