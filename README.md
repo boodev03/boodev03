@@ -1,14 +1,12 @@
 <div align="center">
   <h2>Fullstack Developer</h2>
 </div>
-<br />
 <p align="center">
   <a href="https://www.linkedin.com/in/boodev/" target="_blank" rel="noopener noreferrer"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://t.me/boodev03" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png"  width="50" /></a>
 </p>
 
-## About me <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 <p>
   I'm Ngoc Thang, a Full Stack Developer from Vietnam with a passion for building web applications. I have strong experience working with front-end and back-end technologies, including React, Next.js, TypeScript, Tailwind CSS, and Node.js. Recently, I've also been exploring the world of Web3 and blockchain development to expand my knowledge and stay updated with modern tech trends.
