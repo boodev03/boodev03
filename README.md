@@ -1,10 +1,12 @@
-# Fullstack Developer
+<div>
+<h align="center">Fullstack Developer</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/boodev/" target="_blank" rel="noopener noreferrer"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://t.me/boodev03" target="_blank" rel="noopener noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png"  width="50" /></a>
 </p>
+</div>
 
 
 <p>
