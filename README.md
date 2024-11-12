@@ -1,4 +1,4 @@
-  <p align="center" style="font-size: 24;">Fullstack Developer</h2>
+  <p align="center" style="font-size: 24px;">Fullstack Developer</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/boodev/" target="_blank" rel="noopener noreferrer"><img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg" width="50" /></a>
